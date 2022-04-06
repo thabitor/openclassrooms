@@ -1,0 +1,11 @@
+StartDate__c,EndDate__c,MaximumNumberStudents__c,NumberAvailablePlaces__c,TrainingPrice__c,Assigned_Mentor__c,Training_Type__c,Training_Code__c
+11/29/2019,2/24/2020,15,5,2200,Celine trankiem,Project Management,
+11/30/2019,2/25/2020,15,6,1800,Nino Quarantino,Development,
+12/1/2019,2/26/2020,15,12,1200,Christophe le noir,Configuration,
+12/2/2019,2/27/2020,15,5,1200,Simon Bowl,Business Analyst,
+12/3/2019,2/28/2020,15,5,1200,Marie goalec,Project Management,
+12/4/2019,2/29/2020,15,7,1200,Franc Du bois,Development,
+12/5/2019,3/1/2020,15,12,1200,Waldo Baldo,Configuration,
+12/6/2019,3/2/2020,15,5,950,Jacques dupont,Business Analyst,
+12/7/2019,3/3/2020,15,5,1700,Sarah blanc,Configuration,
+12/8/2019,3/4/2020,15,9,1200,Liliane champs,Development,

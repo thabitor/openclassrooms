@@ -1,0 +1,11 @@
+MailAddress__c,Comments__c,Level__c,LastName__c,FirstName__c,TelephoneNumber__c,Status__c
+test@digitlearning.ds,,Beginner,Didier,Marsaudon,254352671,Prospect
+test1@digitlearning.ds,,Intermediate,Jean,Jacques,254352672,client
+test2@digitlearning.ds,"Training completed, satisfied client",Advanced,Sabine,Billord,254352673,Former client
+test3@digitlearning.ds,,Advanced,Cécile,le petit,254352674,client
+test4@digitlearning.ds,,Beginner,Isabelle,le noir,254352675,client
+test5@digitlearning.ds,,Intermediate,Simon,Bascourd,254352676,client
+test6@digitlearning.ds,,Advanced,Savio,Neau,254352677,Prospect
+test7@digitlearning.ds,"Training completed, satisfied client",Advanced,Christophe,Frenkiel,254352678,Former client
+test8@digitlearning.ds,"Training completed, satisfied client",Intermediate,Bruno,Jouvet,254352679,Former client
+test9@digitlearning.ds,,Intermediate,Vincent,Capron,254352680,Prospect

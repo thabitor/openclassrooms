@@ -1,0 +1,11 @@
+EmailAddress__c,Available__c,TelephoneNumber__c,Profession__c,Name
+test@digitlearning.ds,Y,335246378,Teacher,Franc Du bois
+test1@digitlearning.ds,N,335246379,IT Expert,Francçoise marjorie
+test2@digitlearning.ds,Y,335246380,Project Manager,Christophe le noir
+test3@digitlearning.ds,Y,335246381,Developer,Liliane champs
+test4@digitlearning.ds,Y,335246382,IT Expert,Sarah blanc
+test5@digitlearning.ds,N,335246383,Consultant,Jacques dupont
+test6@digitlearning.ds,N,335246384,Consultant,Celine trankiem
+test7@digitlearning.ds,N,335246385,Teacher,Sabine trois
+test8@digitlearning.ds,Y,335246386,Developer,Vincent Mariot
+test9@digitlearning.ds,N,335246387,Developer,Marie goalec
